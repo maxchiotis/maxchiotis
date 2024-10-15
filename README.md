@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maximus Chiotis</h1>
 <h3 align="center">Passionate Computer Scientist and AI Enthusiast</h3>
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/12jcQWhEjcWJK3YSa4tGrlD21iSywORWY?usp=sharing](https://drive.google.com/drive/folders/12jcQWhEjcWJK3YSa4tGrlD21iSywORWY?usp=sharing)
 
